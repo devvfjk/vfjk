@@ -42,7 +42,7 @@ export default function Contact() {
 
         <motion.div className="mb-12 space-y-2">
           <p className="font-semibold text-lg">
-            📧 info@voicesforjusticeinkashmir.org
+            📧 info@vfjk.org
           </p>
           <p className="text-sm md:text-base">
             Registered in the United States | Advocating Globally for Kashmir

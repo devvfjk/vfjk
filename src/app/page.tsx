@@ -132,7 +132,7 @@ export default function Home() {
           Reach out for partnerships, collaborations, or advocacy inquiries.
         </p>
         <p className="font-semibold text-green-800 text-sm sm:text-base">
-          📧 info@voicesforjusticeinkashmir.org
+          📧 info@vfjk.org
         </p>
         <p className="mt-3 text-gray-600 text-xs sm:text-sm">
           Registered in the United States | Advocating Globally for Kashmir
